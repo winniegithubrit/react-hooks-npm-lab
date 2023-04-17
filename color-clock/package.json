@@ -1,0 +1,23 @@
+{
+  "name": "timing",
+  "version": "1.0.0",
+  "description": "describing the time",
+  "main": "2",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+     "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "timing-lab"
+  },
+  "keywords": [
+    "2"
+  ],
+  "author": "winnie-jomo",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.2.0"
+  }
+}
